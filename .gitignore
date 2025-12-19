@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Power BI temp files
+*.tmp
+
+# Screenshots (optional if large)
+# docs/screenshots/*
+
